@@ -1,0 +1,6 @@
+framework module Pods_imagga {
+  umbrella header "Pods-imagga-umbrella.h"
+
+  export *
+  module * { export * }
+}
